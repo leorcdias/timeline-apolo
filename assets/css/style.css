@@ -138,12 +138,12 @@
   }
 
   #vTimeline .vTimeline-item .vTimeline-content {
-      width: 90%;
+      width: 87%;
       float: right;
   }
 
   #vTimeline .vTimeline-item .vTimeline-content:before, #vTimeline .vTimeline-item .vTimeline-content.right:before {
-      left: 10%;
+      left: 13%;
       margin-left: -6px;
       border-left: 0;
       border-right: 7px solid;
